@@ -1,0 +1,83 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Transform Entertainment with a Unique Touch – Dive into the World of lol Today!",
+        "title": "Discover the Fun of lol: Your Creative Partner in Fun!"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Transform Entertainment with a Unique Touch – Dive into the World of lol Today!",
+        "title": "Discover the Fun of lol: Your Creative Partner in Fun!"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "buttonText": "Sign Up Now",
+        "description": "Join our food tour journey and receive regular updates on the best culinary experiences around. Be the first to know, with special perks and exclusive content just for our subscribers.",
+        "emailLabel": "Your Email",
+        "heading": "Unlock Delicious Insights with Our Newsletter!"
+      }
+    },
+    {
+      "id": "HeroSplitWithImage"
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Transform Entertainment with a Unique Touch – Dive into the World of lol Today!",
+        "title": "Discover the Fun of lol: Your Creative Partner in Fun!"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Transform Entertainment with a Unique Touch – Dive into the World of lol Today!",
+        "title": "Discover the Fun of lol: Your Creative Partner in Fun!"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Transform Entertainment with a Unique Touch – Dive into the World of lol Today!",
+        "title": "Discover the Fun of lol: Your Creative Partner in Fun!"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Transform Entertainment with a Unique Touch – Dive into the World of lol Today!",
+        "title": "Discover the Fun of lol: Your Creative Partner in Fun!"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Transform Entertainment with a Unique Touch – Dive into the World of lol Today!",
+        "title": "Discover the Fun of lol: Your Creative Partner in Fun!"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Transform Entertainment with a Unique Touch – Dive into the World of lol Today!",
+        "title": "Discover the Fun of lol: Your Creative Partner in Fun!"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Transform Entertainment with a Unique Touch – Dive into the World of lol Today!",
+        "title": "Discover the Fun of lol: Your Creative Partner in Fun!"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Discover the Fun of lol: Your Creative Partner in Fun!",
+  "subtitle": "Transform Entertainment with a Unique Touch – Dive into the World of lol Today!"
+}
